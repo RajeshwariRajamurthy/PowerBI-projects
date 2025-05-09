@@ -1,2 +1,14 @@
 # PowerBI-projects
-Learning purpose - begineer
+Learning purpose - beginner
+
+I have created starbucks sales analysis project.
+
+Key Metrices:
+
+1)Total orders
+2)Total Revenue
+3)Sum of the revenue based on the location
+4) Revenue based on the month
+5) Top 5 selling product based on total revenue
+6) Revenue by day
+7)Revenue by hour.
