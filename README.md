@@ -22,4 +22,6 @@ Key Metrices:
 
 
 ## Credits
-Some metrics and logic used in this Power BI report are adapted from [akashh23/starbucks sales dashboard](Thanks to the original author!
+
+
+Some metrics and logic used in this Power BI report are adapted from [akashhh23/starbucks sales dashboard](Thanks to the original author!
