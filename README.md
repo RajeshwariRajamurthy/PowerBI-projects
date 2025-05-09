@@ -3,6 +3,8 @@ Learning purpose - beginner
 
 I have created starbucks sales analysis project.
 
+
+
 Key Metrices:
 
 1)Total orders
@@ -12,3 +14,12 @@ Key Metrices:
 5) Top 5 selling product based on total revenue
 6) Revenue by day
 7)Revenue by hour.
+
+
+
+
+
+
+
+## Credits
+Some metrics and logic used in this Power BI report are adapted from [akashh23/starbucks sales dashboard](Thanks to the original author!
