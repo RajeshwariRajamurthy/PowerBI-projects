@@ -1,4 +1,4 @@
-# PowerBI-projects
+# StarBucks Sales Analysis Project
 Learning purpose - beginner
 
 I have created starbucks sales analysis project.
